@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Team Task Manager
 
 A complete, production-ready full-stack MERN application for managing team projects and tasks.
@@ -93,3 +94,6 @@ This application is ready to be deployed on platforms like **Railway** and **Ver
 
 1. **Backend (Railway)**: Deploy the `server` folder. Set the environment variables in the Railway dashboard.
 2. **Frontend (Vercel/Railway)**: Deploy the `client` folder. Set the Build Command to `npm run build` and Output Directory to `dist`. Add `VITE_API_URL` pointing to your deployed backend URL.
+=======
+# team-task-manager
+>>>>>>> 3fae236e1d7440f7706a899c7f3d28c2e9075b61
